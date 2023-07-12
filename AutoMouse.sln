@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMouse", "AutoMouse\AutoMouse.csproj", "{013723B4-8A23-435E-B0B0-8DDCC8EB2C1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{013723B4-8A23-435E-B0B0-8DDCC8EB2C1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{013723B4-8A23-435E-B0B0-8DDCC8EB2C1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{013723B4-8A23-435E-B0B0-8DDCC8EB2C1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{013723B4-8A23-435E-B0B0-8DDCC8EB2C1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F343237F-9B12-4BF3-89E8-49A10662060C}
+	EndGlobalSection
+EndGlobal

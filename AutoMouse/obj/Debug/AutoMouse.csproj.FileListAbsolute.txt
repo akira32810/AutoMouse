@@ -1,0 +1,13 @@
+C:\Projects\CustomProjects\AutoMouse\AutoMouse\AutoMouse\obj\Debug\AutoMouse.csproj.AssemblyReference.cache
+C:\Projects\CustomProjects\AutoMouse\AutoMouse\AutoMouse\obj\Debug\AutoMouse.csproj.SuggestedBindingRedirects.cache
+C:\Projects\CustomProjects\AutoMouse\AutoMouse\AutoMouse\obj\Debug\AutoMouse.Properties.Resources.resources
+C:\Projects\CustomProjects\AutoMouse\AutoMouse\AutoMouse\obj\Debug\AutoMouse.csproj.GenerateResource.cache
+C:\Projects\CustomProjects\AutoMouse\AutoMouse\AutoMouse\obj\Debug\AutoMouse.csproj.CoreCompileInputs.cache
+C:\Projects\CustomProjects\AutoMouse\AutoMouse\AutoMouse\bin\Debug\AutoMouse.exe.config
+C:\Projects\CustomProjects\AutoMouse\AutoMouse\AutoMouse\bin\Debug\AutoMouse.exe
+C:\Projects\CustomProjects\AutoMouse\AutoMouse\AutoMouse\bin\Debug\AutoMouse.pdb
+C:\Projects\CustomProjects\AutoMouse\AutoMouse\AutoMouse\bin\Debug\WindowsInput.dll
+C:\Projects\CustomProjects\AutoMouse\AutoMouse\AutoMouse\bin\Debug\WindowsInput.xml
+C:\Projects\CustomProjects\AutoMouse\AutoMouse\AutoMouse\obj\Debug\AutoMouse.csproj.CopyComplete
+C:\Projects\CustomProjects\AutoMouse\AutoMouse\AutoMouse\obj\Debug\AutoMouse.exe
+C:\Projects\CustomProjects\AutoMouse\AutoMouse\AutoMouse\obj\Debug\AutoMouse.pdb
